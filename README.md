@@ -1,3 +1,6 @@
+Last page update: 29th Aug 2o26
+Previous username: @/undevotedmikae
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=undevotedmikae&label=𑄝&color=323D46&style=for-the-badge" alt="𑄝">
 </p>
@@ -108,3 +111,11 @@ Things that have chromatic, holographic, iridescent and rainbow effects.
 </details>
 
 </div>
+
+<div align="center">
+
+<details>
+<summary>✦ εxƭrα</summary>
+
+Just a random note, but if you have any songs similar to those listed, please DM them to us!!! "Those who can't, cheat" by Clarence Clarity . . . "Concertina Ballerina" by Alternative Radio . . . "RUBBERZ" By Fenix Flexin . . . "Loser" by Tame Impala . . . "Die by numbers" By Ashbury heights.
+</details>
