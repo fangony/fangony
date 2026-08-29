@@ -121,14 +121,34 @@ Things that have chromatic, holographic, iridescent and rainbow effects.
 
 Just a random note, but if you have any songs similar to those listed, please DM them to us!!!
 
-```md
-🎵 [Listen to Those who can't, cheat — Clarence Clarity on Spotify](https://open.spotify.com/track/5PFD8RUgKXkOUBg9UgDMnX?si=57dcb3e4ab574d04)
+```html
+<h3>🎵 Those who can't, cheat — Clarence Clarity</h3>
+<iframe src="https://open.spotify.com/embed/track/5PFD8RUgKXkOUBg9UgDMnX"
+width="100%" height="152" frameborder="0"
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+loading="lazy"></iframe>
 
-🎵 [Listen to Concertina Ballerina — Alternative Radio on Spotify](https://open.spotify.com/track/7J3X43vYtibhBI3aIvLQL3?si=60c81ae876ee419a)
+<h3>🎵 Concertina Ballerina — Alternative Radio</h3>
+<iframe src="https://open.spotify.com/embed/track/7J3X43vYtibhBI3aIvLQL3"
+width="100%" height="152" frameborder="0"
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+loading="lazy"></iframe>
 
-🎵 [Listen to Die by numbers — Ashbury Heights on Spotify](https://open.spotify.com/track/1vseXbKC72cHnykq1q6lrk?si=e8bd4b11fd9349e7)
+<h3>🎵 Die by numbers — Ashbury Heights</h3>
+<iframe src="https://open.spotify.com/embed/track/1vseXbKC72cHnykq1q6lrk"
+width="100%" height="152" frameborder="0"
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+loading="lazy"></iframe>
 
-🎵 [Listen to RUBBERZ — Fenix Flexin on Spotify](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh?si=a01b40b457fe4cc2)
+<h3>🎵 RUBBERZ — Fenix Flexin</h3>
+<iframe src="https://open.spotify.com/embed/track/1iTBTk4xtwo4lBMcPVNoPh"
+width="100%" height="152" frameborder="0"
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+loading="lazy"></iframe>
 
-🎵 [Listen to Loser — Tame Impala on Spotify](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR?si=8a28265e8661460c)
+<h3>🎵 Loser — Tame Impala</h3>
+<iframe src="https://open.spotify.com/embed/track/7bxaFZ1O3cHkgLKMsdC3xR"
+width="100%" height="152" frameborder="0"
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+loading="lazy"></iframe>
 ```
