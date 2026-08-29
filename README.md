@@ -116,5 +116,15 @@ Things that have chromatic, holographic, iridescent and rainbow effects.
 <details>
 <summary>✦ εxƭrα</summary>
 
-Just a random note, but if you have any songs similar to those listed, please DM them to us!!! "Those who can't, cheat" by Clarence Clarity . . . "Concertina Ballerina" by Alternative Radio . . . "RUBBERZ" By Fenix Flexin . . . "Loser" by Tame Impala . . . "Die by numbers" By Ashbury heights.
+Just a random note, but if you have any songs similar to those listed, please DM them to us!!!
+
+"Those who can't, cheat" by Clarence Clarity
+
+"Concertina Ballerina" by Alternative Radio
+
+"RUBBERZ" By Fenix Flexin
+
+"Loser" by Tame Impala
+
+"Die by numbers" By Ashbury heights.
 </details>
