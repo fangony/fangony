@@ -1,6 +1,6 @@
-Last page update: 29th Aug 2o26
+ʟᴀꜱᴛ ᴘᴀɢᴇ ᴜᴘᴅᴀᴛᴇ: 29ᴛʜ ᴀᴜɢ 2ᴏ26
 
-Previous username: @/undevotedmikae
+ᴘʀᴇᴠɪᴏᴜꜱ ᴜꜱᴇʀɴᴀᴍᴇ: @/ᴜɴᴅᴇᴠᴏᴛᴇᴅᴍɪᴋᴀᴇ
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=undevotedmikae&label=𑄝&color=323D46&style=for-the-badge" alt="𑄝">
