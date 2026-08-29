@@ -121,34 +121,3 @@ Things that have chromatic, holographic, iridescent and rainbow effects.
 
 Just a random note, but if you have any songs similar to those listed, please DM them to us!!!
 
-```html
-<h3>🎵 Those who can't, cheat — Clarence Clarity</h3>
-<iframe src="https://open.spotify.com/embed/track/5PFD8RUgKXkOUBg9UgDMnX"
-width="100%" height="152" frameborder="0"
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-loading="lazy"></iframe>
-
-<h3>🎵 Concertina Ballerina — Alternative Radio</h3>
-<iframe src="https://open.spotify.com/embed/track/7J3X43vYtibhBI3aIvLQL3"
-width="100%" height="152" frameborder="0"
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-loading="lazy"></iframe>
-
-<h3>🎵 Die by numbers — Ashbury Heights</h3>
-<iframe src="https://open.spotify.com/embed/track/1vseXbKC72cHnykq1q6lrk"
-width="100%" height="152" frameborder="0"
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-loading="lazy"></iframe>
-
-<h3>🎵 RUBBERZ — Fenix Flexin</h3>
-<iframe src="https://open.spotify.com/embed/track/1iTBTk4xtwo4lBMcPVNoPh"
-width="100%" height="152" frameborder="0"
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-loading="lazy"></iframe>
-
-<h3>🎵 Loser — Tame Impala</h3>
-<iframe src="https://open.spotify.com/embed/track/7bxaFZ1O3cHkgLKMsdC3xR"
-width="100%" height="152" frameborder="0"
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-loading="lazy"></iframe>
-```
