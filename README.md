@@ -121,15 +121,14 @@ Things that have chromatic, holographic, iridescent and rainbow effects.
 
 Just a random note, but if you have any songs similar to those listed, please DM them to us!!!
 
-"Those who can't, cheat" by Clarence Clarity
+```md
+🎵 [Listen to Those who can't, cheat — Clarence Clarity on Spotify](https://open.spotify.com/track/5PFD8RUgKXkOUBg9UgDMnX?si=57dcb3e4ab574d04)
 
-"Concertina Ballerina" by Alternative Radio
+🎵 [Listen to Concertina Ballerina — Alternative Radio on Spotify](https://open.spotify.com/track/7J3X43vYtibhBI3aIvLQL3?si=60c81ae876ee419a)
 
-"RUBBERZ" By Fenix Flexin
+🎵 [Listen to Die by numbers — Ashbury Heights on Spotify](https://open.spotify.com/track/1vseXbKC72cHnykq1q6lrk?si=e8bd4b11fd9349e7)
 
-"Loser" by Tame Impala
+🎵 [Listen to RUBBERZ — Fenix Flexin on Spotify](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh?si=a01b40b457fe4cc2)
 
-"Die by numbers" By Ashbury heights.
-</details>
-
-🎵 [Listen to MIAMI GODDESS — kili on Spotify](https://open.spotify.com/track/4otVG9irtgsHj21f2F8eOT)
+🎵 [Listen to Loser — Tame Impala on Spotify](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR?si=8a28265e8661460c)
+```
